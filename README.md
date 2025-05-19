@@ -1,2 +1,2 @@
 # blog.jardimsonoro
-powered by Pelican
+Powered by Pelican
