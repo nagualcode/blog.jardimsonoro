@@ -21,3 +21,14 @@ rsync -a "$source"/img "${destination}/blog"
 mkdir "${destination}/linktree" 2>/dev/null
 cp "${destination}/blog/linktree.html" "${destination}/linktree/index.html"
 ############################
+
+
+####sitemapfix
+grep -v '</urlset>' ../jardimsonoro/blog/sitemap.xml >../jardimsonoro/sitemap.xml
+rm ../jardimsonoro/blog/sitemap.xml
+cat ../jardimsonoro/indexmap.xml >> ../jardimsonoro/sitemap.xml
+####################
+
+echo "Done!"
+
+commit

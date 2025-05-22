@@ -3,17 +3,29 @@
   <head>
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ SITEDESCRIPTION }}">
     <meta name="author" content="{{ AUTHOR }}">
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:image" content="{{ SITEURL }}/images/{{ LOGO }}">
+    
+    {% if article %} {# Add this conditional check #}
+    <meta name="twitter:image" content="{{ article.featured_image | replace('../', 'https://jardimsonoro.com/blog/') }}">
+    {% endif %} {# End the conditional check #}
     <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
     <meta name="twitter:creator" content="{{ TWITTER_USERNAME }}">
-    <meta property="og:url" content="{{ SITEURL }}"/>
+    <meta property="og:url" content="{{ SITEURLFULL }}"/>
     <meta property="og:title" content="{{ SITENAME }}" />
-    <meta property="og:description" content="{{ SITEDESCRIPTION }}" />
+    {% if article %}
+  <meta name="twitter:description" content="{{ article.summary|striptags }}">
+  <meta property="og:description" content="{{ article.summary|striptags }}">
+{% else %}
+  <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
+  <meta property="og:description" content="{{ SITEDESCRIPTION }}">
+{% endif %}
+
+    {% if article %} {# Add this conditional check #}
+    <meta property="og:image" content="{{ article.featured_image | replace('../', 'https://jardimsonoro.com/blog/') }}">
+    {% endif %} {# End the conditional check #}
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/paper.css" />
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygment.css" />
@@ -26,25 +38,7 @@
     {% endif %}
     <link rel="alternate" type="application/atom+xml" href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" title="Atom Feed">
     <link rel="alternate" type="application/atom+xml" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" title="Full Atom Feed">
-    <!-- Script -->
-<script>
-  function setTheme() {
-    const logo = document.getElementById('logo-img');
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-      document.body.classList.add('dark');
-      if (logo) logo.src = 'https://jardimsonoro.com/jslogob.png'; // versão dark
-    } else {
-      document.body.classList.remove('dark');
-      if (logo) logo.src = 'https://jardimsonoro.com/jslogo.png'; // versão light
-    }
-  }
 
-  // Executar ao carregar a página
-  setTheme();
-
-  // Também escutar mudanças no sistema do usuário
-  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
-</script>
 
     {% block extrahead %}
     {% endblock %}
@@ -68,5 +62,23 @@
 		</div>
     <p>&copy; {{ CURRENT_YEAR }} <a href="https://jardimsonoro.com">Jardim Sonoro</a> &middot; {{ LOCATION }}</p>
   </footer>
+  <script>
+    function setTheme() {
+      const logo = document.getElementById('logo-img');
+      if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.body.classList.add('dark');
+        if (logo) logo.src = 'https://jardimsonoro.com/jslogo.png'; // versão dark
+      } else {
+        document.body.classList.remove('dark');
+        if (logo) logo.src = 'https://jardimsonoro.com/jslogob.png'; // versão light
+      }
+    }
+
+    // Executar ao carregar a página
+    setTheme();
+
+    // Escutar mudanças no sistema do usuário
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setTheme);
+  </script>
   </body>
 </html>

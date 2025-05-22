@@ -4,7 +4,7 @@
   <div class="post-entry-thumb-container">
     {% if article.featured_image %}
     <div class="post-thumb">
-      <img src="{{ article.featured_image | replace('../', '') }}" alt="Thumbnail">
+      <img src="{{ article.featured_image | replace('../', '../../') }}" alt="Thumbnail">
     </div>
     {% endif %}
     <div class="entry-header">

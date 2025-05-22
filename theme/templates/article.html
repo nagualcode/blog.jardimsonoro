@@ -4,20 +4,34 @@
 <article class="post-single">
   <header class="post-header">
     <h1 class="post-title">{{ article.title }}</h1>
-    <div class="post-meta">
-        <span class="sublinhado">{{ article.author }}</span>&nbsp;&nbsp;·&nbsp;&nbsp;{{ article.locale_date }}
-    </div>
+<div class="post-meta">
+  <div class="post-by">
+   <a href="{{ SITEURL }}">{{ article.author }}</a> · {{ article.locale_date }}
+  </div>
+  {% if article.tags %}
+  <ul class="post-tags">
+    {% for tag in article.tags %}
+    <li><a href="{{ SITEURL }}/{{ tag.url }}"><span class="acidbg white">{{ tag.name }}</span></a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+
   </header>
   <div class="post-content">{{ article.content|safe }}</div>
+<div class="post-meta">
+  <div class="post-by">
+    <a href="{{ SITEURL }}">{{ article.author }}</a> · {{ article.locale_date }}
+  </div>
   {% if article.tags %}
-  <footer class="post-footer">
-    <ul class="post-tags">
-        {% for tag in article.tags %}
-        <li><a href="{{ SITEURL }}/{{ tag.url }}"><span class="acidbg white">{{ tag.name }}</span></a></li>
-        {% endfor %}
-      </ul>
-  </footer>
+  <ul class="post-tags">
+    {% for tag in article.tags %}
+    <li><a href="{{ SITEURL }}/{{ tag.url }}"><span class="acidbg white">{{ tag.name }}</span></a></li>
+    {% endfor %}
+  </ul>
   {% endif %}
+</div>
+
 </article>
 
 <div id="disqus_thread" class="space-top"></div>

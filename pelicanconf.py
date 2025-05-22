@@ -20,4 +20,12 @@ CURRENT_YEAR = 2025
 LOCATION = "Rio de Janeiro, Brasil."
 AUTHOR = "Frederico Flores"
 TEMPLATE_PAGES = {'linktree.html': 'linktree.html',}
+SITEDESCRIPTION = "muitas idéias musicais..."
+SITEURLFULL = "https://jardimsonoro.com/blog"
+TWITTER_USERNAME = "jardimsonoro"
 
+CATEGORY_SAVE_AS = ''
+CATEGORIES_SAVE_AS = ''
+ARCHIVES_SAVE_AS = ''
+AUTHOR_SAVE_AS = ''
+AUTHORS_SAVE_AS = ''
