@@ -3,17 +3,19 @@ Tags: playlists, music branding, spotify, festivais
 Author: Frederico Flores
 
 
+![A Arte Da Curadoria Musical](../img/artecuradoria.jpg)
+
 # 🎵 O Som da Marca: Como a Música Molda Experiências no Varejo
 
 É uma verdade conhecida — embora nem sempre plenamente explorada — que a atmosfera de uma loja pode ser decisiva para atrair e manter clientes. Em uma experiência bem desenhada os elementos que ganham mais atenção geralmente são a vitrine, a iluminação e a arquitetura interna. Mas neste jogo de percepção e encantamento, a música pode ser um elemento de destaque.
 
----
+
 
 ## 🎧 Quando a Música Entende a Marca
 
 Na **Jardim Sonoro**, unimos pesquisa, curadoria e estratégia para criar **experiências sonoras únicas**. Mais do que playlists, desenvolvemos **conteúdo** que traduz a personalidade da marca em acordes, ritmos e letras — cada elemento escolhido para causar o **efeito certo, na hora certa**.
 
----
+
 
 ## 🔍 Como Nasce uma Estratégia Musical?
 
@@ -23,13 +25,12 @@ O próximo passo é entender seu público-alvo: perfis de consumo, hábitos cult
 **Quem é esse cliente? O que escuta? Que filmes vê? Como se expressa?**  
 Esse retrato alimenta o que chamamos de **_filtros musicais_**.
 
----
+
 
 ## 🧠 O Papel dos Filtros Musicais
 
 Com base em padrões de linguagem e valores identificados, selecionamos **palavras-chave** que servirão de guia para toda a curadoria. São essas referências — às vezes sutis — que moldam a **identidade sonora da marca**.
 
----
 
 ## 🛠️ Como é Feita a Curadoria Musical?
 
@@ -39,7 +40,6 @@ A paixão pela música move tudo isso. Descobrir novos artistas, trocar ideias e
 
 📌 O segredo? **Coerência estética, consistência narrativa e conexão emocional.**
 
----
 
 ## 🎙️ Onde Encontrar Novos Sons?
 
@@ -61,7 +61,6 @@ Além de playlists digitais, blogs, revista e site especializados, é vital **ma
 - [Time Out Music](https://www.timeout.com/music)  
   Edição global de uma revista urbana que cobre cultura, shows, listas e o que está borbulhando nas principais capitais do mundo.
 
----
 
 ### 🇫🇷 França
 - [Radio Nova](https://www.nova.fr)  
@@ -73,7 +72,6 @@ Além de playlists digitais, blogs, revista e site especializados, é vital **ma
 - [Tsugi Magazine](https://www.tsugi.fr)  
   Revista especializada em música eletrônica, cultura urbana e descobertas emergentes.
 
----
 
 ### 🇺🇸 Estados Unidos
 - [Pitchfork](https://pitchfork.com)  
@@ -91,10 +89,6 @@ Além de playlists digitais, blogs, revista e site especializados, é vital **ma
 - [The New Yorker – Music Section](https://www.newyorker.com/culture/culture-desk)  
   Jornalismo cultural refinado com resenhas musicais de alto nível e perfis profundos de artistas influentes.
 
-- [OPB Music – Oregon Public Broadcasting](https://www.opb.org/opbmusic/)  
-  Com foco na cena musical de Portland, a OPB Music cobre artistas locais e indie emergentes com performances ao vivo e entrevistas.
-
----
 
 ### 🇧🇷 Brasil
 - [Sesc SP – Música](https://portal.sescsp.org.br/online/artigo/10954_MUSICA)  
@@ -103,10 +97,9 @@ Além de playlists digitais, blogs, revista e site especializados, é vital **ma
 - [TMDQA! – Tenho Mais Discos Que Amigos](https://www.tenhomaisdiscosqueamigos.com)  
   Portal brasileiro que acompanha lançamentos, festivais, artistas independentes e tendências no Brasil e no exterior.
 
-- [Balaclava Records](https://www.balaclavarecords.com)  
-  Selo e plataforma paulistana com forte presença na cena indie e alternativa, conectando artistas nacionais e internacionais.
+- [Gravadora Rocinante ](https://rocinante.com.brm)  
+  Selo e fábrica de discos com forte presença na cena indie e alternativa, conectando artistas nacionais novos e consagrados .
 
----
 
 ### 🇯🇵 Japão
 - [J-WAVE 81.3 FM](https://www.j-wave.co.jp)  
@@ -118,7 +111,6 @@ Além de playlists digitais, blogs, revista e site especializados, é vital **ma
 - [Tokyo Dawn Records](https://www.tokyodawn.net) *(Europa-Japão)*  
   Embora com sede na Europa, o selo tem uma conexão forte com artistas japoneses. Especializado em soul futurista e nu-jazz.
 
----
 
 ### 🇦🇺 Austrália
 - [Double J (da ABC Radio)](https://www.abc.net.au/doublej/)  
@@ -130,9 +122,8 @@ Além de playlists digitais, blogs, revista e site especializados, é vital **ma
 - [PBS 106.7 FM Melbourne](https://www.pbsfm.org.au)  
   Rádio comunitária que é uma verdadeira joia escondida da cena underground australiana.
 
----
 
-### 🌐 Plataformas e Arquivos Globais
+### 🌐 Plataformas Globais
 - [Discogs](https://www.discogs.com)  
   Enciclopédia colaborativa de discos. Ideal para descobrir selos, artistas obscuros e mergulhar fundo em catálogos completos.
 
@@ -145,7 +136,6 @@ Além de playlists digitais, blogs, revista e site especializados, é vital **ma
 - [Louder Than War](https://louderthanwar.com)  
   Cultura alternativa, punk, indie, post-punk, eletrônica e mais. Com resenhas e entrevistas provocativas.
 
----
 
 ### 🎪 Festivais de Música como fontes vivas de descoberta sonora:
 
@@ -160,10 +150,7 @@ Festivais são muito mais do que eventos: são **caldeirões culturais** onde se
 - [Les Vieilles Charrues – 🇫🇷 França](https://www.vieillescharrues.asso.fr)  
   Um dos maiores festivais franceses, mesclando pop, world music e rock alternativo com artistas globais e descobertas locais.
 
-- [NOS Primavera Sound / NOS Alive – 🇵🇹 Portugal](https://www.nosalive.com)  
-  Edição portuguesa do festival espanhol Primavera Sound. Mistura pop, alternativo e eletrônico com curadoria refinada.
-
-- [A Porta – 🇵🇹 Portugal](https://aportafestival.com)  
+- [A Porta – 🇵🇹 Portugal](https://festivalaporta.pt)  
   Festival intimista na cidade de Leiria com forte foco na **música independente lusófona**, experimentações sonoras e ocupação urbana.
 
 - [SXSW – 🇺🇸 Estados Unidos](https://www.sxsw.com)  
@@ -181,7 +168,6 @@ Festivais são muito mais do que eventos: são **caldeirões culturais** onde se
 - [BIGSOUND – 🇦🇺 Austrália](https://www.bigsound.org.au)  
   Principal evento da indústria musical australiana, voltado à descoberta de novos artistas da Oceania e conexões globais.
 
----
 
 
 ## 🚨 Quando a Trilha Vira Cilada
@@ -192,7 +178,6 @@ A música errada é como um perfume enjoativo: difícil de esquecer e fácil de 
 
 Mais do que causar incômodo, a música desalinhada transmite uma sensação de amadorismo, de falta de cuidado com os detalhes — exatamente o oposto do que se espera de marcas que buscam relevância e conexão emocional. Afinal, se nem o som está em sintonia, o que mais estará fora do tom?
 
----
 
 ## 🔁 Estratégia Como Verbo
 
@@ -202,23 +187,22 @@ Por isso, adotamos uma abordagem **colaborativa**. Marca e curadoria caminham ju
 
 🎼 Em um varejo cada vez mais sensível, **a música não é coadjuvante — é protagonista invisível**. Ela não apenas embala: **ela comunica**.
 
----
 
 ## 🥗 Estudo de Caso: Tasty Salad Shop
 
-Tivemos a sorte de acompanhar a **Tasty Salad Shop** desde o início. Os sócios tinham uma visão clara:  
-🎸 *"Música de verdade, tocada por instrumentos de verdade."*  
-Assim como sua gastronomia — fresca, colorida, autêntica.
+Tivemos a sorte de acompanhar a **Tasty Salad Shop** desde o início. Os sócios tinham uma visão clara do que queria:  
+*"Música de verdade, tocada por instrumentos de verdade."*  
+Assim como sua gastronomia — com ingredientes frescos e autêntica.
 
 Resultado? Playlists recheadas de **Ska, Rock, Jazz, Blues, Folk e Surf Music**. Tudo a ver com a proposta da marca.
 
-A Tasty cresce pelo Brasil como referência em alimentação leve e original — e suas trilhas sonoras ajudam a manter esse ambiente jovem, descolado e agradável.
+A Tasty cresce pelo Brasil como referência em alimentação nutritiva e autêntica — e suas trilhas sonoras ajudam a manter esse ambiente descolado e original.
 
-🎧 Além da música nas lojas, criamos uma conta no Spotify para publicar playlists temáticas, como esta de verão:
+🎧 Além da música nas lojas, criamos um perfil da marca no Spotify para publicar sua playlists, e levar a experiência completa da marca para os clientes que pedem o delivery em casa.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3mvdyXJ121dHGz7hvEuLdg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-🔗 Confira o perfil completo da **Tasty Salad Shop** no Spotify [clicando aqui](https://open.spotify.com/user/njipd6jzn6h54o68qbsqbnvig).
+🔗 Confira as outras playlists no perfil da **Tasty Salad Shop** [clicando aqui](https://open.spotify.com/user/njipd6jzn6h54o68qbsqbnvig).
 
 
 
