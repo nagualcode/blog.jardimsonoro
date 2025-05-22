@@ -1,45 +1,60 @@
 <!DOCTYPE html>
 <html lang="{{ DEFAULT_LANG }}">
   <head>
-    <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <meta name="author" content="{{ AUTHOR }}">
-    
-    {% if article %} {# Add this conditional check #}
-    <meta name="twitter:image" content="{{ article.featured_image | replace('../', 'https://jardimsonoro.com/blog/') }}">
-    {% endif %} {# End the conditional check #}
-    
-    <meta name="twitter:creator" content="{{ TWITTER_USERNAME }}">
-    <meta property="og:url" content="{{ SITEURLFULL }}"/>
-    <meta property="og:title" content="{{ SITENAME }}" />
-    {% if article %}
-  <meta name="twitter:description" content="{{ article.summary|striptags }}">
-  <meta property="og:description" content="{{ article.summary|striptags }}">
-  <meta name="description" content="{{ article.summary|striptags }}">
-  <meta name="twitter:description" content="{{ article.summary|striptags }}">
+<title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="author" content="{{ AUTHOR }}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:creator" content="{{ TWITTER_USERNAME }}">
+
+{# CANONICAL URL #}
+{% if article %}
+  <link rel="canonical" href="{{ SITEURLFULL }}/{{ article.url }}">
+{% elif page %}
+  <link rel="canonical" href="{{ SITEURLFULL }}/{{ page.url }}">
 {% else %}
-  <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
-  <meta property="og:description" content="{{ SITEDESCRIPTION }}">
-  <meta name="description" content="{{ SITEDESCRIPTION }}">
-  <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
+  <link rel="canonical" href="{{ SITEURLFULL }}/">
 {% endif %}
 
-    {% if article %} {# Add this conditional check #}
-    <meta property="og:image" content="{{ article.featured_image | replace('../', 'https://jardimsonoro.com/blog/') }}">
-    {% endif %} {# End the conditional check #}
+{# DESCRIPTION #}
+{% if article %}
+  <meta name="description" content="{{ article.summary|striptags }}">
+  <meta name="twitter:description" content="{{ article.summary|striptags }}">
+  <meta property="og:description" content="{{ article.summary|striptags }}">
+{% else %}
+  <meta name="description" content="{{ SITEDESCRIPTION }}">
+  <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
+  <meta property="og:description" content="{{ SITEDESCRIPTION }}">
+{% endif %}
+
+{# IMAGE #}
+{% if article and article.featured_image %}
+  <meta name="twitter:image" content="{{ article.featured_image | replace('../', SITEURLFULL ~ '/') }}">
+  <meta property="og:image" content="{{ article.featured_image | replace('../', SITEURLFULL ~ '/') }}">
+{% else %}
+  <meta name="twitter:image" content="https://jardimsonoro.com/jslogob.png">
+  <meta property="og:image" content="https://jardimsonoro.com/jslogob.png">
+{% endif %}
+
+{# OG BASICS #}
+<meta property="og:url" content="{% if article %}{{ SITEURLFULL }}/{{ article.url }}{% elif page %}{{ SITEURLFULL }}/{{ page.url }}{% else %}{{ SITEURLFULL }}/{% endif %}">
+<meta property="og:title" content="{% if article %}{{ article.title }}{% else %}{{ SITENAME }}{% endif %}">
+
+{# STYLES #}
+<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/paper.css" />
+<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygment.css" />
+
+{# FAVICON #}
+<link rel="icon" type="image/x-icon" href="https://jardimsonoro.com/favicon.ico">
+
     <!-- Styles -->
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/paper.css" />
     <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/pygment.css" />
-    <!-- Favicons -->
-    {% if APPLE_ICON %}
-    <link rel="apple-touch-icon" href="{{ SITEURL }}/images/apple-touch-icon.png">
-    {% endif %}
-    {% if FAVICON %}
-    <link rel="icon" type="image/jpg" href="{{ SITEURL }}/images/{{ FAVICON }}">
-    {% endif %}
+
+
     <link rel="alternate" type="application/atom+xml" href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" title="Atom Feed">
     <link rel="alternate" type="application/atom+xml" href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" title="Full Atom Feed">
 
