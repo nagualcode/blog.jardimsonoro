@@ -22,7 +22,7 @@ AUTHOR = "Frederico Flores"
 TEMPLATE_PAGES = {'linktree.html': 'linktree.html',}
 SITEDESCRIPTION = "muitas idéias musicais..."
 SITEURLFULL = "https://jardimsonoro.com/blog"
-TWITTER_USERNAME = "jardimsonoro"
+TWITTER_USERNAME = "@jardimsonoro"
 
 CATEGORY_SAVE_AS = ''
 CATEGORIES_SAVE_AS = ''

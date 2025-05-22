@@ -3,7 +3,7 @@
   <head>
     <title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
     <meta charset="utf-8">
-    <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
     <meta name="author" content="{{ AUTHOR }}">
@@ -11,7 +11,7 @@
     {% if article %} {# Add this conditional check #}
     <meta name="twitter:image" content="{{ article.featured_image | replace('../', 'https://jardimsonoro.com/blog/') }}">
     {% endif %} {# End the conditional check #}
-    <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
+    
     <meta name="twitter:creator" content="{{ TWITTER_USERNAME }}">
     <meta property="og:url" content="{{ SITEURLFULL }}"/>
     <meta property="og:title" content="{{ SITENAME }}" />
@@ -19,10 +19,12 @@
   <meta name="twitter:description" content="{{ article.summary|striptags }}">
   <meta property="og:description" content="{{ article.summary|striptags }}">
   <meta name="description" content="{{ article.summary|striptags }}">
+  <meta name="twitter:description" content="{{ article.summary|striptags }}">
 {% else %}
   <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
   <meta property="og:description" content="{{ SITEDESCRIPTION }}">
   <meta name="description" content="{{ SITEDESCRIPTION }}">
+  <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
 {% endif %}
 
     {% if article %} {# Add this conditional check #}
