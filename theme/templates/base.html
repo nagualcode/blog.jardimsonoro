@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ SITEDESCRIPTION }}">
+    
     <meta name="author" content="{{ AUTHOR }}">
     
     {% if article %} {# Add this conditional check #}
@@ -18,9 +18,11 @@
     {% if article %}
   <meta name="twitter:description" content="{{ article.summary|striptags }}">
   <meta property="og:description" content="{{ article.summary|striptags }}">
+  <meta name="description" content="{{ article.summary|striptags }}">
 {% else %}
   <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
   <meta property="og:description" content="{{ SITEDESCRIPTION }}">
+  <meta name="description" content="{{ SITEDESCRIPTION }}">
 {% endif %}
 
     {% if article %} {# Add this conditional check #}
