@@ -42,6 +42,7 @@
 {# OG BASICS #}
 <meta property="og:url" content="{% if article %}{{ SITEURLFULL }}/{{ article.url }}{% elif page %}{{ SITEURLFULL }}/{{ page.url }}{% else %}{{ SITEURLFULL }}/{% endif %}">
 <meta property="og:title" content="{% if article %}{{ article.title }}{% else %}{{ SITENAME }}{% endif %}">
+<meta property="og:type" content="{% if article %}article{% else %}website{% endif %}">
 
 {# STYLES #}
 <link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/paper.css" />
