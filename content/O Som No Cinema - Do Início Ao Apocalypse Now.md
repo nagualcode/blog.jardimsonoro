@@ -9,15 +9,47 @@ Este ano, Apocalypse Now celebra 45 anos de lançamento. O filme é um marco na 
 
 Neste artigo, explorarei a história do som no cinema, desde suas origens até a realização de Apocalypse Now, a sequência de eventos que culminaram na produção deste filme e sua duradoura herança para o som no cinema.
 
-Como será detalhado, o som sempre influenciou a maneira como as histórias são contadas no cinema, desde seus primórdios até sua maturidade conceitual, exemplificada em Apocalypse Now, de Francis Ford Coppola.
+Como será detalhado, o som sempre influenciou a maneira como as histórias são contadas no cinema, desde seus primórdios até sua maturidade conceitual, representada aqui por Apocalypse Now, de Francis Ford Coppola.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9l-ViOOFH-s?si=jmZhznj9ZRLrqVsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Mesmo na época do “cinema mudo”, música era executada ao vivo nas salas, e os cineastas desenvolveram uma linguagem visual para representar sons importantes na cena [^1]. 
 
-Porém, foi depois que Hollywood adotou o sistema fotoelétrico para embutir som no filme que os teóricos passaram a discutir o assunto, como uma reação à febre inicial do "cinema falado", que simplesmente reproduzia no filme todos os sons gravados durante a captação da cena, aproximando o cinema à linguagem do teatro e deixando para trás a linguagem visual desenvolvida na era do cinema “mudo”. Como reação, Eisenstein, Pudovkin e Alexandrov escreveram o *Manifesto Sonoro*, onde afirmavam que "o som, tratado como um novo elemento de montagem, divorciado da imagem visual, irá inevitavelmente introduzir novos significados de enorme poder para a expressão" [^2].
+
+### O início (Spoiler: Nunca foi silencioso).
+
+As primeiras projeções públicas de cinema foram acompanhadas pelos ruídos emitidos pelo projetor em funcionamento e, provavelmente, pelas vozes da plateia. Logo veio o acompanhamento musical dos fonógrafos. "O ruído do projetor se afigurava não só desagradável e perturbador, mas acentuava, de modo drástico, o desumano e mecânico do espetáculo (...) a música, pela magia que lhe é própria, conseguiu exorcizar a angústia dos espectadores" [^6]. Característica também das primeiras exibições, como mais um recurso para entreter a plateia, eram os performáticos comentaristas, que chegavam inclusive a encenar diálogos para os personagens na tela [^7]. Conforme os filmes passaram a ser exibidos para públicos maiores, a voz de uma pessoa e a música dos fonógrafos não eram suficientemente volumosos para preencher toda a sala. Assim, a figura dos comentaristas ficou reservada às salas modestas das pequenas cidades e lugares onde havia a preocupação de assimilação do cinema, um produto importado, como no caso do Japão, onde existiam comentaristas conhecidos como *Benshis* [^8]. Com o aumento da capacidade de público das salas, surgiu a música ao vivo e, conforme os filmes se tornaram mais longos, o número de músicos evoluiu de um simples piano para pequenas orquestras que com uma certa liberdade criativa executavam temas que reforçassem o caráter emocional de cenas, motivos musicais específicos para cada personagem e improvisos acompanhando o ritmo do filme. Efeitos sonoros, como sons de veículos, barulhos de animais e outros, eram reproduzidos utilizando um órgão elétrico com teclas especiais de efeitos, por instrumentos musicais e até por pessoas encarregadas especificamente da "sonoplastia" ao vivo, percutindo variados objetos.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OihbIgXBsMU?si=QcYIlEs3zjW3nmlP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+O filme *Metropolis* (1927), de Fritz Lang, teve uma trilha musical original para orquestra composta por Gottfried Huppertz e também uma redução desta trilha para piano solo destinada aos cinemas menores que não dispunham de orquestra [^16]. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRKAhKKMDuc?si=rqzrbBQr85jEKAFp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Mas mas assim o ambiente sonoro das salas era um complemento à experiência, da qual o filme não podia depender. No cinema mudo, os sons que integram o enredo, como um telefone a tocar ou uma sirene que perturba os funcionários de uma fábrica [^17], são sugeridos por imagens. 
+
+Portanto mesmo na época do “cinema mudo”, música era executada ao vivo nas salas, e os cineastas desenvolveram uma linguagem visual para representar sons importantes na cena [^1]. 
+
+
+"O cinema mudo estabeleceu alguns procedimentos para exprimir os sons: o mais corrente era mostrar em plano próximo a imagem de sua fonte, sino, animal, instrumento de música — como um *insert* voltando periodicamente" [^18]. 
+
+
+A necessidade de que o ambiente da cena seja "ouvido" dentro do espectador contribuiu com esta e várias outras técnicas de decupagem e edição para a linguagem do cinema. Estas, num primeiro momento do cinema sonoro, se viram ameaçadas pela febre dos "filmes falados", onde se reproduziam todos os sons do momento da gravação, em parte por não se ter ainda uma técnica para editar a trilha sonora, e também pelo grande número de diretores de teatro que invadiram os estúdios do cinema, com a ideia de que fazer filmes sonoros seria como filmar uma peça teatral, o que apenas evidenciou que a nova tecnologia precisava também de uma nova linguagem.
+
+> "Por volta de 1929, o número de publicações dedicadas à teoria do cinema indica que uma significativa comunidade mundial considerava o cinema uma poderosa forma de arte. Estetas apareceram por toda a parte para debater a nova direção que o cinema deveria tomar depois que o som perturbara seu equilíbrio. Todo esse debate ocorreu numa atmosfera definitivamente formativa. Paradoxalmente, a chegada do som parece marcar o declínio da grande era da teoria formativa do cinema. No entanto, por volta de 1935, já era considerado certo em quase todos os círculos cultos que o cinema era uma arte, independente de todas as outras artes, mas tendo em comum com elas o processo de transformação através do qual um assunto banal torna-se uma declaração eloquente e brilhante" [^19].
+
+
+
+
+
+### Som na película
+
+Diversos inventores tentaram criar um sistema que sincronizasse som gravado com as imagens projetadas. Douglas Gomery, em seu artigo *The Coming of Sound*, expõe que houve tentativas com resultados significativos já em 1907, porém motivos comerciais adiaram o surgimento de um sistema aperfeiçoado para o final da década de 1920 [^9]. O grande sucesso de crítica e público *The Jazz Singer* (1927), que utiliza a tecnologia *sound-on-film* para sincronizar a trilha de som com as imagens, gerou uma rápida conversão nos estúdios, que em poucos meses se reformaram com isolamento acústico e aquisição de novos equipamentos, adotando o *sound-on-film* como a primeira tecnologia padrão do cinema sonoro, sendo esse considerado o marco do seu surgimento [^10].
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/22NQuPrwbHA?si=gmj730OPephYMgHh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Essa fase é marcada pela febre inicial do "cinema falado", que simplesmente reproduzia no filme todos os sons gravados durante a captação da cena, aproximando o cinema à linguagem do teatro e deixando para trás a interessante linguagem visual desenvolvida para representar sons em cena na era do cinema “mudo”. Como reação, Eisenstein, Pudovkin e Alexandrov escreveram o *Manifesto Sonoro*, onde afirmavam que "o som, tratado como um novo elemento de montagem, divorciado da imagem visual, irá inevitavelmente introduzir novos significados de enorme poder para a expressão" [^2].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oRNC8NuA_NA?si=F4elNAAuZxnaFjow" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 No filme *O Vampiro de Dusseldorf* (1931), considerado o primeiro filme a utilizar o som dramaticamente, o diretor Fritz Lang utiliza um motivo musical assoviado pelo personagem do assassino para representá-lo, sem a necessidade de sua imagem [^3].
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_r1OKfQEnqc?si=ScULi-qzRrmrqnhj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -30,23 +62,7 @@ Com o surgimento da Moviola, toda a indústria cinematográfica passou a adotar 
 
 > "Com o decorrer do tempo, o uso do som aliado à montagem fílmica vai adquirindo graus maiores de sofisticação, na medida em que os subelementos constitutivos do som são destrinchados e trabalhados. Não somente as características de um som são 'exercitadas' — timbre, altura, intensidade, etc. —, mas também os diferentes elementos sonoros — diálogos, música, ruídos/efeitos, ambiência — são combinados, contribuindo com novas e variadas possibilidades para a gramática fílmica." [^5]
 
-
-
-
-
-### O início (nunca foi silencioso).
-
-As primeiras projeções públicas de cinema foram acompanhadas pelos ruídos emitidos pelo projetor em funcionamento e, provavelmente, pelas vozes da plateia. Logo veio o acompanhamento musical dos fonógrafos. "O ruído do projetor se afigurava não só desagradável e perturbador, mas acentuava, de modo drástico, o desumano e mecânico do espetáculo (...) a música, pela magia que lhe é própria, conseguiu exorcizar a angústia dos espectadores" [^6]. Característica também das primeiras exibições, como mais um recurso para entreter a plateia, eram os performáticos comentaristas, que chegavam inclusive a encenar diálogos para os personagens na tela [^7]. Conforme os filmes passaram a ser exibidos para públicos maiores, a voz de uma pessoa e a música dos fonógrafos não eram suficientemente volumosos para preencher toda a sala. Assim, a figura dos comentaristas ficou reservada às salas modestas das pequenas cidades e lugares onde havia a preocupação de assimilação do cinema, um produto importado, como no caso do Japão, onde existiam comentaristas conhecidos como *Benshis* [^8]. Com o aumento da capacidade de público das salas, surgiu a música ao vivo e, conforme os filmes se tornaram mais longos, o número de músicos evoluiu de um simples piano para pequenas orquestras (onde havia recursos), que executavam temas que reforçassem o caráter emocional de cenas, motivos musicais específicos para cada personagem e improvisos acompanhando o ritmo do filme. Efeitos sonoros, como sons de veículos, barulhos de animais e outros, eram reproduzidos utilizando um órgão elétrico com teclas especiais de efeitos, por instrumentos musicais e até por pessoas encarregadas especificamente da "sonoplastia" ao vivo, percutindo variados objetos.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OihbIgXBsMU?si=QcYIlEs3zjW3nmlP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### As primeiras tecnologias de Som
-
-Diversos inventores tentaram criar um sistema que sincronizasse som gravado com as imagens projetadas. Douglas Gomery, em seu artigo *The Coming of Sound*, expõe que houve tentativas com resultados significativos já em 1907, porém motivos comerciais adiaram o surgimento de um sistema aperfeiçoado para o final da década de 1920 [^9]. O grande sucesso de crítica e público *The Jazz Singer* (1927), que utiliza a tecnologia *sound-on-film* para sincronizar a trilha de som com as imagens, gerou uma rápida conversão nos estúdios, que em poucos meses se reformaram com isolamento acústico e aquisição de novos equipamentos, adotando o *sound-on-film* como a primeira tecnologia padrão do cinema sonoro, sendo esse considerado o marco do seu surgimento [^10].
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/22NQuPrwbHA?si=gmj730OPephYMgHh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-> "A história inicial do som nos filmes é marcada pelas limitações dos microfones condensadores de carbono então usados. Não direcionais, frágeis, sensíveis ao vento e outros ruídos ambientes, necessitando de um estágio de amplificação muito próximo ao microfone, esses microfones requisitavam condições muito especiais. Prover essas condições influenciava também a gravação de imagens" [^11].
+> "A história inicial do som nos filmes produzido dentro dos estúdios é marcada pelas limitações dos microfones condensadores de carbono então usados. Não direcionais, frágeis, sensíveis ao vento e outros ruídos ambientes, necessitando de um estágio de amplificação muito próximo ao microfone, esses microfones requisitavam condições muito especiais. Prover essas condições influenciava também a gravação de imagens" [^11].
 
 Como o som na tecnologia *sound-on-film* era registrado fotoeletricamente, o desenvolvimento tecnológico que permitiria mais definição acompanhava também a qualidade técnica dos negativos de filmes, que deram um salto de qualidade na década de 1930. O avanço das técnicas de gravação e qualidade dos projetores das salas de exibição possibilitou cada vez mais ousadia na concepção das trilhas, que passaram a suportar mais sons ao mesmo tempo sem que tudo soasse uma grande confusão. Porém, a verdadeira independência do som das imagens, pelo menos em termos técnicos, veio com as fitas magnéticas, disponíveis ao fim da Segunda Guerra Mundial [^12], permitindo que um número infinito de fontes sonoras fosse registrado, editado e mixado. A partir da era magnética, o cinema, a rádio e a indústria musical compartilhavam o mesmo meio de registro sonoro, e o salto tecnológico passou a ser triplo. Mesas de mixagem com multipistas e inúmeros recursos da engenharia sonora passaram a estar disponíveis, permitindo a elaboração de trilhas sem limites para a imaginação. Embora experimentos muito avançados já houvessem sido feitos na era do som fotoelétrico, tanto em montagem quanto em desenho sonoro. Por exemplo, a trilha do filme *Rapt* (1933), em que o compositor Arthur Hoérée antecipou práticas da música concreta ao realizar uma elaborada edição sonora de trovões, estouros e outros sons (também pioneiro em utilizar sons reversos) para criar uma tempestade assustadora [^13]. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqNzJ3lrebQ?si=uPr6Z7qzQC45uGFO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -55,33 +71,10 @@ Como o som na tecnologia *sound-on-film* era registrado fotoeletricamente, o des
 Revolucionárias também foram as chamadas peças de animação sonora, que eram sons criados a partir de desenhos e padrões geométricos nos negativos de filmes, feitos diretamente à mão ou fotografados, que, ao serem interpretados pelo leitor ótico, resultavam em sons completamente originais, sendo um precursor da síntese sonora e da música eletroacústica, onde Norman McLaren foi um dos pioneiros. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q0vgZv_JWfM?si=t9SEnan6PPbfhVyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Sons sintetizados
-
 Ainda na década de 1930, o russo N.V. Voinov conseguiu, com animação sonora, reproduzir sinteticamente o prelúdio em C# menor de Rachmaninoff e *Moments Musicaux* de Schubert [^14]. 
 
 
 Embora essa técnica tenha se mostrado muito precisa rítmica e tonalmente, a animação sonora parece ter sido usada majoritariamente para a trilha de desenhos e filmes abstratos. O uso de sons sintetizados para compor ruídos e música só foi realmente utilizado pelo cinema décadas mais tarde com o surgimento dos sintetizadores musicais.
-
-Como apontam alguns teóricos, a segunda revolução sonora do cinema foi na década de 1970 com a adoção do sistema *Dolby* em filmes de Rick Altman e Coppola [^15]. Este sistema de redução de ruídos, introduzido primeiramente na indústria musical, quando adaptado ao cinema elevou a trilha sonora a um nível de fidelidade praticamente impossível de ser distinguido da realidade. Com o uso do *Dolby*, foram possíveis grandes variações de volume entre os sons, permitindo momentos de quietude alternados com grandes impactos sonoros. Também a ausência de chiado na reprodução da fita magnética, junto com as modernas salas isoladas e projetores silenciosos, introduziram pela primeira vez no cinema o verdadeiro silêncio.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L8q3SwU0h88?si=l_BA6AP1pTQr-NTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Desenvolvimento Conceitual
-
-O período conhecido como cinema mudo teve um rico acompanhamento sonoro, porém este pertencia às salas de exibição, e os diretores, apesar de terem consciência de que sua obra seria exibida com música, alguns efeitos e talvez até vozes emitidas por atores atrás das telas, não tinham controle sobre o que o público iria ouvir. Portanto, a linguagem fílmica teve que ser desenvolvida completamente independente desses sons.
-
-O filme *Metropolis* (1927), de Fritz Lang, teve uma trilha musical original para orquestra composta por Gottfried Huppertz e também uma redução desta trilha para piano solo destinada aos cinemas menores que não dispunham de orquestra [^16]. 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HRKAhKKMDuc?si=rqzrbBQr85jEKAFp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Mas, mesmo no caso de uma grande produção como esta, o ambiente sonoro das salas era um complemento à experiência, da qual o filme não podia depender. No cinema mudo, os sons que integram o enredo, como um telefone a tocar ou uma sirene que perturba os funcionários de uma fábrica [^17], são sugeridos por imagens. 
-
-"O cinema mudo estabeleceu alguns procedimentos para exprimir os sons: o mais corrente era mostrar em plano próximo a imagem de sua fonte, sino, animal, instrumento de música — como um *insert* voltando periodicamente" [^18]. 
-
-
-A necessidade de que o ambiente da cena seja "ouvido" dentro do espectador contribuiu com esta e várias outras técnicas de decupagem e edição para a linguagem do cinema. Estas, num primeiro momento do cinema sonoro, se viram ameaçadas pela febre dos "filmes falados", onde se reproduziam todos os sons do momento da gravação, em parte por não se ter ainda uma técnica para editar a trilha sonora, e também pelo grande número de diretores de teatro que invadiram os estúdios do cinema, com a ideia de que fazer filmes sonoros seria como filmar uma peça teatral, o que apenas evidenciou que a nova tecnologia precisava também de uma nova linguagem.
-
-O surgimento do som na época em que o cinema vivia uma grande efervescência cultural deu origem a algumas das mais ricas considerações a respeito do seu uso.
-
-> "Por volta de 1929, o número de publicações dedicadas à teoria do cinema indica que uma significativa comunidade mundial considerava o cinema uma poderosa forma de arte. Estetas apareceram por toda a parte para debater a nova direção que o cinema deveria tomar depois que o som perturbara seu equilíbrio. Todo esse debate ocorreu numa atmosfera definitivamente formativa. Paradoxalmente, a chegada do som parece marcar o declínio da grande era da teoria formativa do cinema. No entanto, por volta de 1935, já era considerado certo em quase todos os círculos cultos que o cinema era uma arte, independente de todas as outras artes, mas tendo em comum com elas o processo de transformação através do qual um assunto banal torna-se uma declaração eloquente e brilhante" [^19].
 
 
 
@@ -99,6 +92,12 @@ O músico Pierre Schaeffer, conhecido como pai da música concreta, esteve envol
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CTf0yE15zzI?si=qNvBPoErj_cnHGbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ### Uma nova geração de cineastas
+
+### Alta Fidelidade
+
+
+A segunda revolução sonora do cinema foi na década de 1970 com a adoção do sistema *Dolby* em filmes de Rick Altman e Coppola [^15]. Este sistema de redução de ruídos, introduzido primeiramente na indústria musical, quando adaptado ao cinema elevou a trilha sonora a um nível de fidelidade praticamente impossível de ser distinguido da realidade. Com o uso do *Dolby*, foram possíveis grandes variações de volume entre os sons, permitindo momentos de quietude alternados com grandes impactos sonoros. Também a ausência de chiado na reprodução da fita magnética, junto com as modernas salas isoladas e projetores silenciosos, introduziram pela primeira vez no cinema o verdadeiro silêncio.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L8q3SwU0h88?si=l_BA6AP1pTQr-NTW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 O surgimento de cursos específicos dentro das universidades permitiu que o círculo de discussões que existiu na época da consolidação do cinema sonoro, finalmente influenciasse uma nova geração de cineastas de uma maneira sonoro-consciente.
 
@@ -127,7 +126,7 @@ Em seu livro, *Num Piscar de Olhos*, Walter Murch explica por que *Apocalypse No
 
 
 
-### Relação entre Som e Imagem
+### Teoria consolidada
 
 ![Walter Murch](../img/soundvision.jpeg)
 
@@ -170,8 +169,9 @@ Em seu artigo *Teaching the Soundtrack*, Claudia Gorbman propôs que, na perspec
 
 Todos os sons podem ainda estar ou não presentes no campo visual, estando ou não em sincronia.
 
-No filme *Apocalypse Now*, Walter Murch compôs a trilha sonora de forma que “qualquer estímulo sonoro pudesse servir para acentuar tanto o caráter verossímil quanto o caráter emocional da obra, seja ele música, ruído ou voz” [^31]. 
+# Apocalypse Now
 
+No filme *Apocalypse Now*, Walter Murch compôs a trilha sonora de forma que “qualquer estímulo sonoro pudesse servir para acentuar tanto o caráter verossímil quanto o caráter emocional da obra, seja ele música, ruído ou voz” [^31]. 
 
 Uma das formas como ele atinge esse objetivo é justamente interpolando a perspectiva narrativa de um som (geralmente através da mudança de seu timbre). Por exemplo, na cena em que os personagens estão no barco ouvindo um rádio, inicialmente o som desse rádio é diegético, ouve-se um locutor dando notícias, e o timbre é característico do alto-falante de um pequeno rádio (predominância de frequências médias, sem graves e agudos). 
 
@@ -196,7 +196,7 @@ Podemos nos perguntar novamente: é a trilha sonora uma linguagem? Assim como a 
 ### Trilha Musical Original
 
 
-No filme *Apocalypse Now*, a trilha musical original não é uma peça musical “completa”, como no filme *Metropolis*, de Fritz Lang, que era executada durante todo o filme e se expressava pela sua forma musical em relação às imagens e o roteiro. Ela é apresentada em caráter de música de fundo [^39], ou seja, sem início ou fim definido, contribuindo mais com a sua sonoridade do que com a sua forma para a expressividade da cena. 
+No filme *Apocalypse Now*, a trilha musical original é apresentada em caráter de música de fundo [^39], ou seja, sem início ou fim definido, contribuindo mais com a sua sonoridade do que com a sua forma para a expressividade da cena. 
 
 
 > "O caminho da música no cinema, começando pelo período mudo até a maturidade do cinema sonoro, apresenta uma tendência no sentido de reduzir a quantidade de música e, consequentemente, de se preocupar mais com sua expressividade. Havendo menos música, seu impacto tornou-se, ao mesmo tempo, muito maior, ampliando a capacidade de expressão audiovisual. A música no cinema caminhou no sentido da redução e não do acúmulo" [^40].
@@ -207,25 +207,25 @@ Os temas e melodias foram escritos por Carmine Coppola, e a sua execução foi r
 
 > "O conceito de Francis sobre a trilha musical evoluiu quando ele começou a trabalhar no filme. Carmine recorda: 'No princípio, Francis viu que ele teria que ir além do rock and roll. Ele queria algo operístico e sinfônico. Queria combinar a música popular com a música sinfônica para destacar a emoção dramática'. Francis concebia uma trilha musical que não fosse separada dos diálogos e efeitos de som, mas era parte de uma montagem em constante evolução a partir de outros elementos da trilha sonora. (...) 'Desde o início, Francis sabia que as metralhadoras tinham de se tornar o baixo ostinato, e o gemido das balas a linha melódica secundária'" [^41].
 
-Em *Apocalypse Now*, a trilha música original, não é trabalha sozinha, ela é mais um dos elementos usados com importância narrativa, junto com os sons ambientes, efeitos sonoros especiais e sons de *Foley*. Irá ocupar o primeiro plano principalmente nos momentos em que se deseja criar uma suspensão na linha do tempo, ou uma *sumarização* [^42], como acontece nos momentos em que Willard está lendo o dossiê de Kurtz, ou nas mudanças de cenas que são realizadas com sobreposições de imagens do barco avançando pelo rio, quando nota-se a afinidade que o timbre dos sintetizadores tem com o som do motor do barco e com os sons ambientes da floresta, de forma que o próprio ritmo dos insetos e pássaros se encaixam entre as notas musicais. 
+A trabalha sozinha, ela é mais um dos elementos usados com importância narrativa, junto com os sons ambientes, efeitos sonoros especiais e sons de *Foley*. Irá ocupar o primeiro plano principalmente nos momentos em que se deseja criar uma suspensão na linha do tempo, ou uma *sumarização* [^42], como acontece nos momentos em que Willard está lendo o dossiê de Kurtz, ou nas mudanças de cenas que são realizadas com sobreposições de imagens do barco avançando pelo rio, quando nota-se a afinidade que o timbre dos sintetizadores tem com o som do motor do barco e com os sons ambientes da floresta, de forma que o próprio ritmo dos insetos e pássaros se encaixam entre as notas musicais. 
 
-A produção das músicas foi comandada pelo especialista em sintetizadores Patrick Gleeson junto com mais cinco músicos que faziam experimentos com as linhas melódicas, desenvolvendo os timbres e gravando, somando e ditando várias pistas para compor a "orquestra" imaginada por Francis:
+A produção das músicas foi comandada pelo especialista em sintetizadores Patrick Gleeson, junto com mais cinco músicos que faziam experimentos com as linhas melódicas, desenvolvendo os timbres e gravando, somando e ditando várias pistas para compor a "orquestra" imaginada por Francis:
 
 > "Nós fazíamos isso até que tivéssemos oito pistas. Então, nós mixávamos as oito pistas em estéreo, e apagávamos as oito. Nós elaboramos umas 100 vozes usando esta técnica. Algumas vezes, Shirley e Nyle trabalhavam juntos, Shirley tocando teclado enquanto Nyle tocava o seu EVI. Bernie frequentemente trabalhava com Andy Narrel para produzir linhas de timbres complexos. Patrick, em contramão, geralmente preferia trabalhar sozinho, usando técnicas que ele desenvolveu em seu próprio estúdio. Como ele mostra: 'Eu tenho um teclado EMU onde eu posso armazenar muita coisa na memória. Primeiro, eu carregava as notas na memória e deixava executando enquanto eu trabalhava com os movimentos que eu queria no painel. Uma vez pronto, eu tocaria manualmente sobre a pista que os sintetizadores tinham gravado. As pistas nessas fitas tendem a estar desorganizadas e fragmentadas, o trabalho de Rubinson era mixar estas fitas de 24 pistas em um grupo de pistas em uma nova fita para que então a) os timbres fossem agrupados de uma maneira que fizesse sentido musical (timbres de cordas em um grupo, timbres de sopro em outro, etc.) e b) o nível de balanço estivesse aproximadamente correto na nova fita'" [^43].
 
 
-### Musicas
+### Musica Diegética
 
-As escolhas das músicas que tocam no filme, além da trilha musical original, possui também uma linha narrativa. A começar por *The End*, do grupo *The Doors*, logo na primeira cena do filme, e a interpretação do que a sua letra contada evoca junto com a imagem de uma floresta em chamas; seriam as guerras a causa do fim da humanidade, o apocalipse? A música volta a tocar na última cena, encerrando o filme em unidade com o seu começo. Sobre a escolha dessa música, Walter Murch comentou:
+As escolhas das músicas que tocam nos cenas do filme, não confundir com a trilha musical original, possui também uma narrativa própria. logo na primeira cena do filme *The End*, do grupo *The Doors*, provoca a interpretação do que a sua letra está dizendo; seriam as guerras a causa do fim da humanidade, o apocalipse? A música volta a tocar na última cena, encerrando o filme em unidade com o seu começo. Sobre a escolha dessa música, Walter Murch comentou:
 
 > "O engraçado é que, onde quer que colocássemos uma música do *The Doors*, era como se tivéssemos Jim Morrison na sala olhando para as imagens e vindo com palavras para descrevê-las. Era até demais. Todas as músicas clássicas do *The Doors*, quando colocávamos sobre o filme, estávamos fazendo exatamente o que você não quer que a música faça, elas estavam simplesmente duplicando o que você está vendo visualmente ou comentando exatamente sobre isso. Então, nós mudamos de rumo. Mas eu acho que *The End* fica ainda mais poderosa por causa do seu posicionamento no começo e no fim e mais em nenhum lugar ao meio" [^44].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pzUjSEd0e3E?si=dGA-fFALpgzDkfIG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Existe uma intertextualidade a ser interpretada quando é tocada *Satisfaction*, dos *Rolling Stones*, sobre a imagem dos soldados esquiando no rio. Para os personagens, é um momento em que se sentem em casa novamente e esquecem que estão em uma guerra, ninguém quer estar em uma guerra, mas, se Francis, dentre tantas músicas de rock, escolheu justamente essa, ele faz o espectador se perguntar: afinal, quem não está se satisfazendo? Também na cena em que as coelhinhas da *Playboy* dançam para os soldados, ouvimos o clássico do rock and roll *Suzie Q*. Em uma das cenas mais famosas de *Apocalypse Now*, um esquadrão de helicópteros ataca duas vilas vietnamitas ao som de *A Cavalgada das Valquírias*, de Wagner. Além do grande impacto que a sonoridade dessa obra soma às imagens aéreas, também existe a escolha por um compositor que notoriamente era admirado por Hitler. Portanto, pode-se interpretar que existe um subplano ao qual pertencem as músicas (não incluindo a música original) presentes na trilha sonora, e esse plano é um diálogo direto entre o diretor e o espectador.
+Quando os personagens escutam *Satisfaction*, dos *Rolling Stones* tocando no rádio é um momento em que se sentem em casa novamente e esquecem que estão em uma guerra, ninguém quer estar em uma guerra, e a letra da música provoca ironia: Quem não está se satisfazendo em uma guerra? Também na cena em que as dançarinas da *Playboy* se apresentam para os soldados, ouvimos o clássico do rock and roll *Suzie Q* ("Suzie Mate!"). Em uma das cenas clássicas de  *Apocalypse Now*, um esquadrão de helicópteros ataca duas vilas vietnamitas ao som de *A Cavalgada das Valquírias*, de Wagner. Além do grande impacto que a sonoridade grandiosa dessa obra soma às imagens aéreas, também existe a escolha por um compositor que notoriamente era admirado por Hitler, ligado a valores nacionalistas. Portanto, pode-se interpretar que existe um subplano ao qual pertencem as músicas , uma voz do diretor.
 
 
-### O Fim
+### This Is The End
 
 Um momento de grande sentido literário atribuído à trilha sonora é no final do filme, quando Kurtz recita o poema *The Hollow Men*, de T.S. Eliot. A começar pela palavra *Hollow* (vazio) contida no título e a ambientação que os ruídos ambientes (gotas de água e insetos), cheios de reverberação, agregam ao cenário, que então se mostra muito mais grande, húmido e vazio, como o estado emocional em que se encontram Kurtz e Willard. Sobre a relação deste poema com o filme, cabe aqui uma interessante citação, embora já extrapolando o campo da trilha sonora:
 
