@@ -24,7 +24,7 @@ As primeiras projeções públicas de cinema foram acompanhadas pelos ruídos em
 O filme *Metropolis* (1927), de Fritz Lang, teve uma trilha musical original para orquestra composta por Gottfried Huppertz e também uma redução desta trilha para piano solo destinada aos cinemas menores que não dispunham de orquestra [^16]. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HRKAhKKMDuc?si=rqzrbBQr85jEKAFp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Mas mas assim o ambiente sonoro das salas era um complemento à experiência, da qual o filme não podia depender. No cinema mudo, os sons que integram o enredo, como um telefone a tocar ou uma sirene que perturba os funcionários de uma fábrica [^17], são sugeridos por imagens. 
+Mas este o ambiente sonoro das salas era um complemento à experiência, da qual o criador do filme não tinha controle. No cinema mudo, os sons que integram o enredo, como um telefone a tocar ou uma sirene que perturba os funcionários de uma fábrica [^17], são sugeridos por imagens. 
 
 Portanto mesmo na época do “cinema mudo”, música era executada ao vivo nas salas, e os cineastas desenvolveram uma linguagem visual para representar sons importantes na cena [^1]. 
 
